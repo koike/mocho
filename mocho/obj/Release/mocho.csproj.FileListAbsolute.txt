@@ -1,0 +1,7 @@
+C:\Users\kkrnt\Desktop\mocho\mocho\bin\Release\mocho.exe.config
+C:\Users\kkrnt\Desktop\mocho\mocho\bin\Release\mocho.exe
+C:\Users\kkrnt\Desktop\mocho\mocho\bin\Release\mocho.pdb
+C:\Users\kkrnt\Desktop\mocho\mocho\obj\Release\mocho.csprojResolveAssemblyReference.cache
+C:\Users\kkrnt\Desktop\mocho\mocho\obj\Release\mocho.exe
+C:\Users\kkrnt\Desktop\mocho\mocho\obj\Release\mocho.pdb
+C:\Users\kkrnt\Desktop\mocho\mocho\bin\Release\LibNMeCab.dll
